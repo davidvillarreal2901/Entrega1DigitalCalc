@@ -1,7 +1,7 @@
-# Calculadora FPGA en SystemVerilog - Colorlight i9
-Juan Felipe Arias Ruiz             - CC 1001077136
-Laura Camila Barrera León          - CC 1016942896
-David Ricardo Villarreal Archila   - CC 1005154067
+# Calculadora FPGA en SystemVerilog - Colorlight i9  
+Juan Felipe Arias Ruiz             - CC 1001077136  
+Laura Camila Barrera León          - CC 1016942896  
+David Ricardo Villarreal Archila   - CC 1005154067  
 
 Este proyecto implementa una calculadora en binario completa sobre una FPGA **Colorlight i9** (Lattice ECP5), diseñada enteramente en **SystemVerilog** utilizando una arquitectura de Hardware Puro.
 
